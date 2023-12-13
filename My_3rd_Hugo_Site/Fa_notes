@@ -1,0 +1,10 @@
+
+
+
+
+
+
+Error: error building site: render: failed to render pages: render of "section" failed: 
+"F:\Fabrih\Lab\Hugo\Giraffe_Academy\My_3rd_Hugo_Site\themes\ga-hugo-theme\layouts\_default\list.html:14:31": 
+execute of template failed: template: _default/list.html:14:31: executing "_default/list.html" at <.URL>: 
+can't evaluate field URL in type page.Page
