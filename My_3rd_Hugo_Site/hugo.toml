@@ -1,5 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My 3rd Hugo Site'
-
+title = 'My 3rd Hugo Site - Giraffe Academy'
 theme = "ga-hugo-theme"
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    mood = "moods"
